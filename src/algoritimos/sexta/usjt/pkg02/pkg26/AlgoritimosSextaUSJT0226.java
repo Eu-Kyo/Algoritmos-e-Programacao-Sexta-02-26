@@ -5,7 +5,7 @@ public class AlgoritimosSextaUSJT0226 {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Aula de sexta wow");
         int num = entrada.nextInt();
-        
+        System.out.println("Digita: ");
         System.out.println("Numero: "+num);
     }
     
